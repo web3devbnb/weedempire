@@ -73,9 +73,6 @@ const BusdHire = () => {
       .then(res => {
         setMyEggs(res);
       })
-      .catch(err => {
-        toast.error("Something is wrong")
-      })
     }
   }
 

@@ -18,7 +18,7 @@ const Description = () => {
           <div className="text-center">
             <h3 className="title text-white verify" style={{ backgroundImage: `url(${Papan2})` }}>VERIFIED PUBLIC CONTRACT</h3>
             <p className="text-brown">
-            The Hempire  contracts is public, verified and can be viewed here on <a href="https://bscscan.com/address/0x955E7650fCC4A8Ba3dc63FB0410CfFc58779E754" target="_blink">Contract</a>
+            The Hempire  contracts is public, verified and can be viewed here on <a href="https://bscscan.com/address/0xF03A1D429465e82e8E628A1457A2EBd5D089981f" target="_blink">Contract</a>
             </p>
           </div>
           <div className="text-center">

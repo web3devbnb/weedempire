@@ -36,7 +36,7 @@ const Footer = () => {
             </p>
           </Row>
           <Row className="smart-contract text-center">
-            <a href="https://bscscan.com/address/0x955E7650fCC4A8Ba3dc63FB0410CfFc58779E754" className="text-light-brown" target="_blink"><FaClipboardList icon={faWallet} />SMART CONTRACT</a>
+            <a href="https://bscscan.com/address/0xF03A1D429465e82e8E628A1457A2EBd5D089981f" className="text-light-brown" target="_blink"><FaClipboardList icon={faWallet} />SMART CONTRACT</a>
           </Row>
           <p className="copyright text-light-brown text-center">Hempire 420 Game @2021</p>
         </Container>
