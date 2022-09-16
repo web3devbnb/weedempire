@@ -82,8 +82,8 @@ const HireBusd = ({ approvedAmount, refAddr, myMiners, fillTime, myMinedBusd }) 
       }
     }
 
-    if (hireAmount <= 25) {
-      toast.warning(`The minimum value is 26BUSD`);
+    if (hireAmount <= 2) {
+      toast.warning(`The minimum value is 1BUSD`);
       return;
     }
     if (hireAmount >= 2000) {

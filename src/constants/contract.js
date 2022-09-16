@@ -1,4 +1,4 @@
-export const busdMinerAddr = '0xF03A1D429465e82e8E628A1457A2EBd5D089981f';
+export const busdMinerAddr = '0x395842395D31bB3F4CAc7A5e8Eb2241bC46CD331';
 // export const busdTokenAddr = '0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee';
 export const busdTokenAddr = '0xe9e7cea3dedca5984780bafc599bd69add087d56';
 
